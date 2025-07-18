@@ -18,10 +18,17 @@ It can:
 
 ---
 
-## ✅ How to Run
+## How to Run
 
 1. **Clone the Repository or Copy the Files**
 
 2. **Install dependencies**
-```bash
-npm install
+> npm install axios express
+3. **Start the Server**
+> npm start
+4.  **Server will start on**
+   http://localhost:3000
+
+##Screenshots
+
+
