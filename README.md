@@ -29,6 +29,8 @@ It can:
 4.  **Server will start on**
    http://localhost:3000
 
-##Screenshots
+## Screenshots
 
+![Create Short URL](question_1/images/CreateURL.png)
 
+![Retrieve Short URL status](question_1/images/GetURL.png)
