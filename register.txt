@@ -1,0 +1,8 @@
+{
+	"email": "hemanthkapilavai@gmail.com",
+	"name": "hemanth kapilavai",
+	"rollNo": "22ve1a0526",
+	"accessCode": "NNZDGq",
+	"clientID": "35732c03-d6e0-428c-bd05-60ff1b3009f8",
+	"clientSecret": "nquKfdDWtNBHGVpv"
+}

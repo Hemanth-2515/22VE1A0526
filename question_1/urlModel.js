@@ -7,7 +7,7 @@ exports.saveUrl = (code, data) => {
 
 exports.getUrl = (code) => store[code];
 
-exports.Click = (code, clickData) => {
+exports.Clicks = (code, clickData) => {
     if (store[code]) {
         store[code].clicks += 1;
         store[code].clickData.push(clickData);
